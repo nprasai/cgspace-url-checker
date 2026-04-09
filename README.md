@@ -34,7 +34,7 @@ cgspace-url-checker \
   --output-dir "output_folder"
 ### Optional Arguments
 ```bash
--url-columns dcterms.relation cg.identifier.url
+--url-columns dcterms.relation cg.identifier.url
 --delimiter ";"
 --retries 3
 --timeout 15
